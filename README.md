@@ -8,5 +8,5 @@
 
 例如:
 ```
-pip install --upgarde https://github.com/CCU-sslab4ai/tensorflow-wheel/releases/download/r1.7/tensorflow-1.7.0-cp36-cp36m-linux_x86_64.whl
+pip install --upgrade https://github.com/CCU-sslab4ai/tensorflow-wheel/releases/download/r1.7/tensorflow-1.7.0-cp36-cp36m-linux_x86_64.whl
 ```
